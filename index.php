@@ -3,7 +3,7 @@
 
 include('layout/header.php');
 ?>
-<h1 align="center">SRIP ONLINE SYSTEM</h1>
+<h1 align="center">SRIP ONLINE SYSTEMMMMMMMMMMMMMM</h1>
 <div class="login_box">
 <!--<h2 align="center">LOGIN</h2>-->
 <p>__________________________________________________</p>
